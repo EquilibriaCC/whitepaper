@@ -1,0 +1,18 @@
+Hello Equinauts,
+As you probably know, the hardfork v18 passed successfully, which we are very satisfied with.
+However, we want to inform you about something very important. 
+On the blocks immediately after the fork, additional coins were generated that do not count to the total emission.
+The purpose of this operation is to ensure the financial liquidity of the network and the project. 
+The XEQs issued will be presented on the days in the document for which they will be intended and the main one is to secure liquidity on crosschain for wXEQ.
+Confirmation of this will also be mapped in the Explorer we are working on.
+There is about 380 accounts on wXEQ with amount greater than 1 and more than 23 mln tokens.
+We will allow to change that wXEQ -> XEQ also we will safe liquidity for wXEQ V3 token that should run on few crosschains.
+For the minted XEQ will be divided :
+
+- for old wXEQ swap made by previous owner
+- for each crosschain for wXEQ V3 
+- the rest amount for liquidity and listing on exchanges
+- main XEQ code developers, people who develop other services, servers maintenance, services and all the rest
+
+We do belive that this reserve will allow the Oracle to be finalized.
+The project is still being developed and, as you can see, we are doing everything to ensure its correct direction and transparency.
